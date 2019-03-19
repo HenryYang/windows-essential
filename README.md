@@ -2,7 +2,11 @@
 
 It just my note to quickly install essential applications.
 
-⚠️⚠️⚠️ All info base on personal experience, author isn't responsible for any data lost or damage, proceed at your own risk. :p ⚠️⚠️⚠️
+⚠️⚠️⚠️ 
+
+Base on personal experience, author isn't responsible for any data lost or damage, proceed at your own risk.
+
+⚠️⚠️⚠️
 
 ## Daily Use
 
