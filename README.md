@@ -69,6 +69,12 @@ Requirement: [Everything](https://www.voidtools.com/downloads/)、[Python 3](htt
 * If you are a macOS user, I strongly recommend choosing [Parallels Desktop](https://www.parallels.com/hk/products/desktop/) to be your VM solution.
 
 
+### [Steam](https://store.steampowered.com/)
+
+* The **MOST IMPORTANT** Application in my PC !!!
+* Yep, Playing Game with Windows and Hard work with Linux.
+
+
 ## System Tools
 
 ### [Chocolatey](https://chocolatey.org/)
