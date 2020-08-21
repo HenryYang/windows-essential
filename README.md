@@ -94,16 +94,10 @@ Requirement: [Everything](https://www.voidtools.com/downloads/)、[Python 3](htt
 * Let your PC can read the latest iOS images format.
 
 
-## Useful Tools
-
-* [1Password](https://1password.com/zh-tw/) - My favorite password manager.
-* [Caprine](https://github.com/sindresorhus/caprine) - Facebook Messenger Desktop App (Supported Windows, macOS, Linux)
-
-
 ## Tips
 
 * [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/zh-tw/windows/wsl/install-win10)
 * [Turn Off Indexing in Windows for Better Performance](https://www.online-tech-tips.com/computer-tips/simple-ways-to-increase-your-computers-performace-turn-off-indexing-on-your-local-drives/)
-
+* [Completely uninstall Microsoft Edge on Windows 10](https://www.onmsft.com/how-to/how-to-completely-uninstall-microsoft-edge-on-windows-10)
 
 
