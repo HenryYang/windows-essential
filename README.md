@@ -41,6 +41,10 @@ Requirement: [Everything](https://www.voidtools.com/downloads/)、[Python 3](htt
 | `Alt`+`Shift`+`4`   |  Capture active window     |
 | `Alt`+`Shift`+`5`   |  Capture region            |
 
+### [Windows Terminal](https://github.com/microsoft/terminal)
+
+### [WSLTTY](https://github.com/mintty/wsltty)
+
 ### [Cmder](https://cmder.net/)
 
 * The best console emulator on Windows.
@@ -84,6 +88,12 @@ Requirement: [Everything](https://www.voidtools.com/downloads/)、[Python 3](htt
 * **ONLY INSTALL PACKAGE FROM WHOM YOU TRUSTED**
 
 
+### [scoop](https://scoop.sh/)
+-  All the app install by scoop will located in `%UserProfile%\scoop` directory  
+- `scoop install aria2; scoop config aria2-enabled true`
+- `scoop install ag busybox fd file git gzip jq less ln neovim psutils shasum sqlite sudo tar touch which xz`
+
+
 ### [QuickLook](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s)
 
 * Just like macOS can pressing the SpaceKey to get a quick preview.
@@ -99,5 +109,6 @@ Requirement: [Everything](https://www.voidtools.com/downloads/)、[Python 3](htt
 * [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/zh-tw/windows/wsl/install-win10)
 * [Turn Off Indexing in Windows for Better Performance](https://www.online-tech-tips.com/computer-tips/simple-ways-to-increase-your-computers-performace-turn-off-indexing-on-your-local-drives/)
 * [Completely uninstall Microsoft Edge on Windows 10](https://www.onmsft.com/how-to/how-to-completely-uninstall-microsoft-edge-on-windows-10)
+* [Windows Shortcuts – Mosky’s Notes]([Windows Shortcuts by @moskytw](https://paper.dropbox.com/doc/Windows-Shortcuts-Moskys-Notes-2xHBugmq1xnYtBhhcnHmW))
 
 
